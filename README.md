@@ -25,7 +25,7 @@
 ### チーム enPiT観光局
 * PBL基礎：（提案テーマ）いいねサポーター
   * レポジトリ：https://github.com/enpitut2017/tourism_supporter
-  * サービスのページ：https://github.com/enpitut2017/tourism_supporter
+  * サービスのページ：https://tourism-supporter.herokuapp.com
   
 * 発展学習：いいねサポーター
 
