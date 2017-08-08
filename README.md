@@ -10,27 +10,36 @@
 
 ### チーム A1
 * PBL基礎：（共通テーマ）就活 from A1
+  * レポジトリ： https://github.com/enpitut2017/a1
+  * サービスのページ： https://a1-summer.herokuapp.com/
 * 発展学習：
 
 ### チーム やっていき
 * PBL基礎：（提案テーマ）家計学園
+  * レポジトリ：https://github.com/enpitut2017/kakei_gakuen
+  ＊ サービスのページ：https://nameless-springs-98046.herokuapp.com/
 * 発展学習：家計学園
 
 ### チーム enPiT観光局
 * PBL基礎：（提案テーマ）いいねサポーター
+  * レポジトリ：https://github.com/enpitut2017/tourism_supporter
+  * サービスのページ：https://github.com/enpitut2017/tourism_supporter
 * 発展学習：いいねサポーター
 
 ### チーム のびしろ
 * PBL基礎：（提案テーマ）Nobishiro
-  * 夜更かし防止「寝ろ」アプリ
+  * 概要；夜更かし防止「寝ろ」アプリ
+  ＊ レポジトリ：https://github.com/enpitut2017/Nobishiro
 
 ### チーム moritomo
 * PBL基礎：（提案テーマ）WakeUpVoice
-  * 自分の声で解除する目覚ましアプリ
+  * 概要：自分の声で解除する目覚ましアプリ
+  * レポジトリ：https://github.com/enpitut2017/WakeupVoice
 
 ### チーム ムロイ軍団
 * PBL基礎：（共通テーマ）リク飲み for ITF
-  * 就活情報収集のためのOBとの飲み会セッティングアプリ
+  * 概要：就活情報収集のためのOBとの飲み会セッティングアプリ
+  * レポジトリ：https://github.com/enpitut2017/MUROIGUNDAN
 * 発展学習：
 
 ### チーム Cinder
