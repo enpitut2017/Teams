@@ -10,49 +10,66 @@
 
 ### チーム A1
 * PBL基礎：（共通テーマ）就活 from A1
-  * レポジトリ： https://github.com/enpitut2017/a1
-  * サービスのページ： https://a1-summer.herokuapp.com/
+  * レポジトリ： https://github.com/enpitut2017/a1
+  * サービスのページ： https://a1-summer.herokuapp.com/
+  
 * 発展学習：
 
 ### チーム やっていき
 * PBL基礎：（提案テーマ）家計学園
-  * レポジトリ：https://github.com/enpitut2017/kakei_gakuen
-  ＊ サービスのページ：https://nameless-springs-98046.herokuapp.com/
+  * レポジトリ： https://github.com/enpitut2017/kakei_gakuen
+  * サービスのページ： https://nameless-springs-98046.herokuapp.com/
+   
 * 発展学習：家計学園
 
 ### チーム enPiT観光局
 * PBL基礎：（提案テーマ）いいねサポーター
-  * レポジトリ：https://github.com/enpitut2017/tourism_supporter
-  * サービスのページ：https://github.com/enpitut2017/tourism_supporter
+  * レポジトリ：https://github.com/enpitut2017/tourism_supporter
+  * サービスのページ：https://github.com/enpitut2017/tourism_supporter
+  
 * 発展学習：いいねサポーター
 
 ### チーム のびしろ
 * PBL基礎：（提案テーマ）Nobishiro
-  * 概要；夜更かし防止「寝ろ」アプリ
-  ＊ レポジトリ：https://github.com/enpitut2017/Nobishiro
+  * 概要；夜更かし防止「寝ろ」アプリ
+  * レポジトリ：https://github.com/enpitut2017/Nobishiro
 
 ### チーム moritomo
 * PBL基礎：（提案テーマ）WakeUpVoice
-  * 概要：自分の声で解除する目覚ましアプリ
-  * レポジトリ：https://github.com/enpitut2017/WakeupVoice
+  * 概要：自分の声で解除する目覚ましアプリ
+  * レポジトリ：https://github.com/enpitut2017/WakeupVoice
 
 ### チーム ムロイ軍団
 * PBL基礎：（共通テーマ）リク飲み for ITF
-  * 概要：就活情報収集のためのOBとの飲み会セッティングアプリ
-  * レポジトリ：https://github.com/enpitut2017/MUROIGUNDAN
+  * 概要：就活情報収集のためのOBとの飲み会セッティングアプリ
+  * レポジトリ：https://github.com/enpitut2017/MUROIGUNDAN
+  * サービスのページ：https://nomikai-app.herokuapp.com/
+  
 * 発展学習：
 
 ### チーム Cinder
 * PBL基礎：（共通テーマ）---
-  * 就活に必要だけど、なかなか手に入らない情報をお届けします
+  * 概要：就活に必要だけど、なかなか手に入らない情報をお届けします
+  * レポジトリ：https://github.com/enpitut2017/Cinder_summer
+  * サービスのページ：https://guarded-bastion-50533.herokuapp.com/
+  
 * 発展学習：Cinder
 
 ### チーム NearBuy
 * PBL基礎：（提案テーマ）NearBuy
-  * 欲しい商品がある近くのお店を教えてくれるアプリ
+  * 概要：欲しい商品がある近くのお店を教えてくれるアプリ
+  * レポジトリ：https://github.com/enpitut2017/near-buy
+  * サービスのページ：https://nearbuy666.herokuapp.com/
+  
 * 発展学習：NearBuy
 
 ### チーム 加藤恵
 * PBL基礎：（提案テーマ）CyTras
-  * あなたの自転車を守るアシスタント
+  * 概要：あなたの自転車を守るアシスタント
+  * レポジトリ：
+     * https://github.com/enpitut2017/MegumiKato
+     * https://github.com/enpitut2017/MegumiKato_android
+     * https://github.com/enpitut2017/MegumiKato_Hardware
+     
+  
 * 発展学習：CyTras
